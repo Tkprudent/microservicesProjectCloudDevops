@@ -4,13 +4,13 @@ This project operationalizes a machine learning microservice using kubernetes, w
 
 ## :page_with_curl:  _Instructions_
 
-**1)** Fire up your favourite console & clone this repo somewhere:
+**1)** Clone this repository to your local computer:
 
 __`❍ git clone https://github.com/Tkprudent/microservicesProjectCloudDevops.git`__
 
 **2)** Enter this directory:
 
-__`❍ cd project-ml-microservice-kubernetes`__
+__`❍ cd microservicesProjectCloudDevops`__
 
 **3)** Install [python](https://www.python.org/) if not already installed and run this command to create a virtual environment and activate it:
 
