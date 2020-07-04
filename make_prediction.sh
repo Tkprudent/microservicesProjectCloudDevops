@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PORT=6000
+PORT=6000  # I chose port 6000 since my port 8000 was busy at the time of build
 echo "Port: $PORT"
 
 # POST method predict
