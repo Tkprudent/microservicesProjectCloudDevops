@@ -38,6 +38,9 @@ __`❍ ./upload_docker.sh `__
 
 **9)** Run this script to run the service in a kubernetes cluster. You'll be making use of my image repo. You can edit the script and change to your image repo on Docker hub if you've built and pushed your image. This script will be run twice to activate the port forwarding. Give some minutes after first run so that the pod can be up and running before attempting port forwarding:
 
+__`❍ Configure Kubernetes to Run Locally `__
+You should have a virtual machine like VirtualBox and minikube installed, as per the project environmet instructions. To start a local cluster, type the terminal command: __minikube start__.
+
 __`❍ ./run_kubernetes.sh `__
 
 **10)** Run this script to get a prediction from the app running in the Kubernetes Cluster after port forwarding is successful:
